@@ -10,8 +10,15 @@ Una vez definido el proyecto tienes que redactar la propuesta del trabajo dirigi
 
 Un requisito importante es que debes haber aprobado por lo menos 3 cursos obligatorios de nivel CC4xxx. También es importante notar que cada profesor/a puede dirigir como máximo 3 trabajos dirigidos en un mismo semestre.
 
+Otros requisitos para inscribir un trabajo dirigido (requeridos por Escuela):
+
+* Inscribir el Trabajo Dirigido no puede hacer que te pases de tu límite de créditos
+* No puedes tener IAEs en el semestre actual
+* No puedes tener ramos reprobados el semestre anterior
+
 ## ¿Cómo redacto la propuesta?
 Normalmente, lo que se espera de tu propuesta es que presentes lo siguiente:
+
 * el/la estudiante (o sea, tú)
 * el/la profesor/a (que va a supervisar y evaluar tu trabajo)
 * el tema a tratar en el curso (lo que vas a programar o investigar)
@@ -24,9 +31,12 @@ Si quieres investigar algún tema en particular (por el lado de investigación),
 
 ## Aún no tengo claro qué puedo hacer en un trabajo dirigido, ¿me puedes dar un ejemplo?
 Un ejemplo podría ser una investigación dirigida bajo algún profesor en tu tema de interés. Por ejemplo, yo (el autor anonimizado por el tiempo) tomé un trabajo dirigido en criptografía, orientado a proponer mejoras al sistema de Participa UChile (el sistema de votación electrónica de la U). Otros conocidos también han hecho trabajos en gestión/gobernanza de datos del mismo sistema. Mi conocimiento se limita principalmente a trabajos en el área de seguridad, pero la verdad se pueden hacer en cualquier área, me imagino que hasta podrías hacer un videojuego como trabajo dirigido (bueno, quizás no, pero en preguntar no hay engaño). Dejo espacio acá para que la gente del futuro comente sobre sus trabajos:
-* (rellenar aquí) [^1]
+
+* (rellenar aquí) [1]
 
 ## ¿Con quién hablo si quiero tomar uno?
 Primero, con el/la profe que va a dirigir tu trabajo. En general, la gente elige a un profesor que ya conoce desde antes y con quien ha tomado al menos un ramo. Luego, con la propuesta formulada y el tema decidido, debes enviarle un correo al Coordinador Docente del Departamento (actualmente, a 2025, es la profe Jocelyn) solicitando la inscripción y estar atente a cualquier aclaración que te pida.
 
-[^1]: Para contribuir: desde el [repo del cadcc](https://github.com/cadcc/howto/)
+---
+
+[1]: Para contribuir: desde el [repo del cadcc](https://github.com/cadcc/howto/)
